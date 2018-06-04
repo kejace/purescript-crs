@@ -16,6 +16,11 @@
     "tests"
   ],
   "dependencies": {
-    "purescript-matryoshka": "https://github.com/xgrommx/purescript-matryoshka"
+    "purescript-prelude": "^3.0.0",
+    "purescript-matryoshka": "https://github.com/xgrommx/purescript-matryoshka.git",
+    "purescript-console": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
   }
 }
